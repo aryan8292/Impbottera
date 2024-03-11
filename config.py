@@ -1,7 +1,7 @@
 API_ID = 22741640  # api id
 API_HASH = "c435fe7ad0a6398ccd9337839a3666e3"  # api hash
 
-BOT_TOKEN = ""  # bot token
+BOT_TOKEN = "5642006585:AAEvzDbClC_Ey90rs-noSqi7ywKwdavVjts"  # bot token
 
 
 ## REDIS
