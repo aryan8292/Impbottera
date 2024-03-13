@@ -4,7 +4,6 @@ API_HASH = "c435fe7ad0a6398ccd9337839a3666e3"  # api hash
 BOT_TOKEN = "5642006585:AAEvzDbClC_Ey90rs-noSqi7ywKwdavVjts"  # bot token
 
 
-## REDIS
 HOST = "redis-15392.c304.europe-west1-2.gce.cloud.redislabs.com"  # redis host uri
 PORT = "15392"  # redis port
 PASSWORD = "cbw7xHuW3uJmddWJRRqxiSWmRvKi81GM"  # redis password
