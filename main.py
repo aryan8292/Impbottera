@@ -274,7 +274,7 @@ Direct Link: [Click Here](https://t.me/MaviTerabox_bot?start={uuid})
         )
         if not download:
             return await hm.edit(
-                f"({data['direct_link']}))         
+                direct_link)         
         file = await bot.send_file(
             PRIVATE_CHAT_ID,
             download,
